@@ -1,2 +1,0 @@
-# SupplyChainInnovation
-individual project
